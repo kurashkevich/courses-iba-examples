@@ -6,7 +6,7 @@
 
 
 
-	<import resource="t1000_context.xml" />	
+	<import resource="t1000_context.xml" />
 	
 	<bean class="spring.main.MyBeanPostProcessor"/>
 
